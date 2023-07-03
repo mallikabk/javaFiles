@@ -1,0 +1,9 @@
+type ClientEntity{
+id:ID!
+clientName:String
+productType:String!
+users:Integer!
+location:String!
+tpaList:String!
+insuranceCompany:String!
+}
